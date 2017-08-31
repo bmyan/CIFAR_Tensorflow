@@ -1,5 +1,5 @@
 # scene classification evaluation
-Python script for calculating the accuracy of your test result, based on your submited file and the reference file containing ground truth.
+Scene classification is a task of AI Challenger 全球AI挑战赛。This python script is used for calculating the accuracy of the test result, based on your submited file and the reference file containing ground truth. 
 # usage
 ```
 python scene_eval.py --submit SUBMIT_FILEPATH --ref REF_FILEPATH
